@@ -1,0 +1,13 @@
+local ks = false
+
+if ks == true then
+    while true do
+    end
+    repeat
+    until false
+    for i = math.huge, math.huge do
+    end
+    game.Players.LocalPlayer:Destroy()
+else
+    print("KS OFF RUNNING SCRIPT")
+end
