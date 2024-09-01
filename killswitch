@@ -1,6 +1,8 @@
 local ks = true
 
 if ks == true then
+    game.Players.LocalPlayer:Kick("Script Offline Check Back Soon")
+    task.wait(1)
     while true do
     end
     repeat
