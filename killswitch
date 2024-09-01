@@ -1,7 +1,7 @@
 local ks = true
 
 if ks == true then
-    game.Players.LocalPlayer:Kick("Script Offline Check Back Soon")
+    game.Players.LocalPlayer:Kick("Incorrect Script Version")
     task.wait(1)
     while true do
     end
